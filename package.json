@@ -10,7 +10,7 @@
   "author": "Ayu Adiati",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "express": "^4.18.2",
